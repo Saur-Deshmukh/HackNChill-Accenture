@@ -1,2 +1,17 @@
-backend/
-python-backend/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+myenv/
+env/
+venv/
+
+credentials.json
+googledrive.json
+festival_goods.json
+indian_festivals_2025.json
+twitter-clone-440006-ed01aaa3bd45.json
+
+

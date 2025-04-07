@@ -1,0 +1,5 @@
+.env
+*.env
+
+backend/twitter-clone-440006-ed01aaa3bd45.json
+*twitter-clone-440006-ed01aaa3bd45.json
