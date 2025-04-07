@@ -53,8 +53,7 @@ _Revolutionizing how businesses track, forecast, and optimize inventory_
 │ ├── reminders.json 
 │ ├── sales.py 
 │ ├── server.py 
-│ ├── telegrambuyer.py 
-│ ├── twitter-clone-44... 
+│ ├── telegrambuyer.py  
 │ ├── warehouse.py 
 │ └── whatsappbuyer.py 
 ├── 📁 frontend 
@@ -82,15 +81,10 @@ _Revolutionizing how businesses track, forecast, and optimize inventory_
 │ ├── 📁 models 
 │ ├── 📁 modules 
 │ ├── app.py 
-│ ├── credentials.json 
-│ ├── festival_goods.json 
-│ ├── googledrive.json 
-│ ├── indian_festivals.json 
 │ ├── llm.py 
 │ ├── model_train.ipynb 
 │ ├── requirements.txt 
 │ ├── token.pickle 
-│ ├── twitter-clone
 ├── .gitignore 
 └── README.md
 ```
